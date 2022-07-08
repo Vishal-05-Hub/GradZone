@@ -1,0 +1,27 @@
+.title {
+    position: relative;
+    background-color: rgba(0, 0, 0, 1);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 1.8em;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .button {
+    position: relative;
+    padding: 10px;
+    background-color: rgb(27, 27, 26);
+    display: inline-block;
+    margin: 10px;
+    outline: none;
+    border: none;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 4px;
+    text-align: left;
+  }
